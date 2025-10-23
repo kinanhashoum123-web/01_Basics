@@ -1,5 +1,5 @@
-console.log("hallo");
-console.log("tolle sache");
+console.log("Hallo");
+console.log("Tolle sache");
 
 var a = 7;
 var b = 8;
