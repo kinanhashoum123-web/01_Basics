@@ -1,4 +1,4 @@
-let pass = "verysecure";
+var pass = "verysecure";
 
 const readline = require('readline').createInterface({
   input: process.stdin,
