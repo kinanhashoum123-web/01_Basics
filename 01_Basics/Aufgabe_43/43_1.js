@@ -1,4 +1,4 @@
-var pass = "verysecure";
+var pass = "KING";
 
 const readline = require('readline').createInterface({
   input: process.stdin,
