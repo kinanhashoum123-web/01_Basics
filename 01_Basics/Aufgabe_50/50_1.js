@@ -1,4 +1,4 @@
-var points = Math.floor(Math.random() * 100); 
+let points = Math.floor(Math.random() * 100); 
 
 if (points > 90) {
     console.log("Grade A");

@@ -1,4 +1,4 @@
-var randomNumber = Math.floor(Math.random() * 10); 
+let randomNumber = Math.floor(Math.random() * 10); 
 console.log(randomNumber);
 
 if (randomNumber < 5) {

@@ -1,9 +1,9 @@
-var num = -5;
+let num = -5;
 
 if (num==0) {
     console.log("Die nummer ist null");
 } else if (num > 0) {
-    console.log("Die Zahl ist positiv");
+    console.log("Die nummer ist positiv");
 } else if (num < 0) {
     console.log("die nummer ist negativ");
 }

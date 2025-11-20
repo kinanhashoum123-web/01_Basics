@@ -1,4 +1,4 @@
-var num = -5;
+let num = -5;
 
 if (num==0) {
     console.log("Die nummer ist null");

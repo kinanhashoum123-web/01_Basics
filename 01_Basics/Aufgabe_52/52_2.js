@@ -1,5 +1,5 @@
 let speed = 81;
-var trafficLevel = 7;
+let trafficLevel = 7;
 
 if (speed > 80 || trafficLevel > 7) {
     console.log("Slow down!");

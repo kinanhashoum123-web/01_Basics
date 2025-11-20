@@ -1,4 +1,4 @@
-var pass = "KING";
+let pass = "KING";
 
 const readline = require('readline').createInterface({
   input: process.stdin,
@@ -6,7 +6,7 @@ const readline = require('readline').createInterface({
 });
 
 readline.question('Password?', name => {
-  if (name == "Password123") {
+  if (name == pass) {
     console.log("access granted");
   } else {
     console.log("access denied");
