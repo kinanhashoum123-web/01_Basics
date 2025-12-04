@@ -14,4 +14,4 @@ if (points > 90) {
 
 } else {
     console.log("Grade F");
-}
+} 
