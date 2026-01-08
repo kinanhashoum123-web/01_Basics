@@ -1,11 +1,11 @@
-let arr = [2, 4, 6, 8];  // Unser Array
+let arr = [2, 4, 6, 8];  
 
-let summe = 0;              // Hier speichern wir die Summe
+let summe = 0;            
 
 for (let i of arr) {
-    summe = summe + i;   // Jede Zahl zur Summe hinzufügen
+    summe = summe + i;   
 }
 
-let durchschnitt = summe / arr.length;  // Summe durch Anzahl teilen
+let durchschnitt = summe / arr.length;  
 
-console.log(durchschnitt);  // Ergebnis: 5
+console.log(durchschnitt); 
